@@ -1,4 +1,4 @@
 # first-project
 This is my first git repository.
 <br>
-Author - Tithika Halder
+Author - Tithika 
